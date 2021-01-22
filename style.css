@@ -28,3 +28,50 @@
 .fs-rem-1-5 {
     font-size: 1.5rem;
 }
+
+.fs-rem-1 {
+    font-size: 1rem;
+}
+
+.full-h {
+    height: 100%;
+}
+
+.width-30 {
+    width: 30%;
+}
+
+.width-70 {
+    width: 70%;
+}
+
+.text-white {
+    color: white;
+}
+#wrapper {
+    width: 100%;
+    background-color: #fff;
+}
+  
+.side-nav {
+    width: 20%;
+    position: fixed;
+    height:100vh;
+    left: 0;
+    right: 0;
+    overflow-y: scroll;
+    /* background-color: red;
+    top: 60px; */
+}
+  
+.content-wrapper {
+    width: 80%;
+    margin-left: 20%;
+    overflow-y: scroll;
+    position: fixed;
+    /* left: 0;
+    top: 0; */
+    height:100vh;
+    /* background-color: blue; */
+}
+  
